@@ -1,9 +1,9 @@
 {
-  "name": "pong-phaser-game",
+  "name": "pong-game-phaser",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://thejisdev.github.io/pong-phaser-game",
+  "homepage": "https://thejisdev.github.io/pong-game-phaser/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
